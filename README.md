@@ -1,4 +1,4 @@
-# bowling_game <br>
+# bowling_game_calc.py <br>
 Simulates a bowling game (for one frame) in python.  Uses test cases. <br>
 Python file is *bowling_game_calc.py* <br>
 **Usage:** *python bowling_game_calc.py*    # runs the test cases  <br>
